@@ -111,7 +111,6 @@ color: var(--text-color);
 
 
 .card {
-	margin-bottom: 60px;
 	border: none;
 	background-color: var(--bg-color);
 	text-decoration: none;
